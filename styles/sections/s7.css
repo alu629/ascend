@@ -33,6 +33,15 @@
     font-size:125%;
 }
 
+#membership table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+
+#membership th, td {
+    padding: 5px;
+  }
+
 #membership button {
     position: relative;
     margin: auto;
